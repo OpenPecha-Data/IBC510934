@@ -1,0 +1,47 @@
+id: d6c0aa1b35dd444ca821917145cfdb62
+annotation_type: index
+revision: '00001'
+annotations:
+  e35b77d2361146dfac9512d481bea298:
+    base: 319A.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 22
+    - title: Preface
+      span:
+        start: 23
+        end: 33
+    - title: Verse 1-10
+      span:
+        start: 34
+        end: 10061
+    - title: Verse 11-20
+      span:
+        start: 10062
+        end: 15327
+    - title: Verse 21-30
+      span:
+        start: 15328
+        end: 25029
+    - title: Verse 31-40
+      span:
+        start: 25030
+        end: 31232
+    - title: Verse 41-50
+      span:
+        start: 31233
+        end: 36549
+    - title: Verse 51-60
+      span:
+        start: 36550
+        end: 45354
+    - title: Verse 61-70
+      span:
+        start: 45355
+        end: 53138
+    - title: Colophon
+      span:
+        start: 53139
+        end: 53193
